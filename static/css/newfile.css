@@ -4,6 +4,9 @@
 li {
     font-size: 16px;
 }
+.education-roundedimg {
+    object-fit: contain;
+}
 
 .overlay {
     position: absolute;
