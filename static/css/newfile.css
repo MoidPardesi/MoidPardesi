@@ -78,3 +78,8 @@ li {
     content: "\f0ac";
     font-size: 50px;
 }
+.greeting-text {
+  font-size: 60px;
+  line-height: 1.1;
+  color: black !important;
+}
